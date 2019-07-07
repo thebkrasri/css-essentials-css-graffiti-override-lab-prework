@@ -9,3 +9,7 @@ body #wall #tag-2
 body div#wall #tag-3.slick {
   display: none;
 }
+
+#parent #wall #tag-4 {
+  display: none;
+}
